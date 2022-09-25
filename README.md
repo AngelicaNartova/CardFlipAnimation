@@ -1,4 +1,5 @@
 I'm using a CSS class dynamically with a JavaScript event listener.
 
-![1](h![2](https://user-images.githubusercontent.com/78755964/192167473-6ccafc66-077a-4e60-b9e2-c4caa79f4bd8.PNG)
-ttps://user-images.githubusercontent.com/78755964/192167472-27294849-e84e-4501-9c5c-c958493c025f.PNG)
+![1](https://user-images.githubusercontent.com/78755964/192167488-329ce2c2-e137-4c89-a168-5549084bcfe9.PNG)
+![2](https://user-images.githubusercontent.com/78755964/192167493-cf6793b6-cfb5-41c3-a00a-a9afcc7f22cc.PNG)
+
