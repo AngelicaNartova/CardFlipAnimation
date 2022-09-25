@@ -32,7 +32,7 @@ body {
     position: relative;
 }
 
-.card__inner.is-flipped {
+.card__inner.card-inner-flipped {
     transform: rotateY(180deg);
 }
 
