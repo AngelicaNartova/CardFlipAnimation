@@ -1,4 +1,6 @@
-In this project I learned how to dynamically use a CSS class with JavaScript.
+# Animation card
+
+In this project I learned how to dynamically use CSS classes with JavaScript.
 
 
 ![2](https://user-images.githubusercontent.com/78755964/192167508-ce1b65a7-9a60-4163-b8ae-25d6a6a8e3a6.PNG)
